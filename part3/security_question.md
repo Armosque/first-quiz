@@ -1,7 +1,7 @@
 
 Sistema de Seguridad
 
-Considerando la guía OWASP Top 10 para 2021 y que vamos a realizar una autoditoría, a fin de disminuir los riesgos, amenazas y vulnerabilidades que pongan  en riesgo la información y activos de la compañía es importante:
+Considerando la guía OWASP Top 10 para 2021 y La auditoría que vamos a realizar a fin de  evaluar como es nuestra postura de seguridad, disminuyendo los riesgos, amenazas y vulnerabilidades que pongan  en riesgo la información y activos de la compañía es importante:
 
 1. Verificar que el sistema de autenticaciones esté bien implementado y que las contraseñas se almacenen de manera adecuada, sería preferible una autenticación de
 dos factores(2FA)
@@ -12,4 +12,4 @@ dos factores(2FA)
 6. Verificar que se esten realizando acciones de monitoreo y actualización de las bibliotecas, paquetes y componentes, regularmente, para asegurarse de que no haya vulnerabilidades conocidas.
 7. Establecer  estrategias sólidas de registro y supervisión. Registrar y supervisar eventos relevantes en la infraestructura para detectar posibles amenazas o actividad inusual.
 8. Verificar que se estén implementando capacitaciones al recurso humano en cuanto al temade seguridad y la importancia de las buenas prácticas en el desarrollo de la
-actividad diaria y propias del negocio de paneles solare.
+actividad diaria y propias del negocio de paneles solares.
